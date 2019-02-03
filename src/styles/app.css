@@ -1,0 +1,31 @@
+div {
+
+}
+
+button {
+    margin: 5px;
+    width: 100px;
+    height: 25px;
+    display: block;
+}
+
+input {
+    margin: 5px;
+    height: 25px;
+    display: block;
+}
+
+label {
+    margin: 5px;
+    display: block;
+}
+
+table {
+    margin: 5px;
+    border-collapse: collapse;
+    border: 1px solid grey;
+}
+
+td {
+    border: 1px solid grey;
+}
